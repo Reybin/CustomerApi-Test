@@ -19,6 +19,15 @@
 ## Steps
 (After cloning the repo and opening it in visual studio 2022)
 - Run the migration on the package manager console
+  ![run-migration](https://github.com/Reybin/CustomerApi-Test/blob/master/PropellerHeadTest/readme-images/run-migration.png)
 - Run API project from the solution
 
+> Please select the API on the top bar during both steps.  
+ ![run](https://github.com/Reybin/CustomerApi-Test/blob/master/PropellerHeadTest/readme-images/selectAPI.png)
+
+## Filter Example:
+
+ ![run](https://github.com/Reybin/CustomerApi-Test/blob/master/PropellerHeadTest/readme-images/filter.png)
+
 ## Duration Time: 7h
+> With more time, I would like to add more API validation, custom responses, Test, Authorization and Azure secrets for the connection string.
