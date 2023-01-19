@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db02e9f6-8c65-4f5e-b22c-b1c7caa15ed9": {
+      "ProjectGuid": "db02e9f6-8c65-4f5e-b22c-b1c7caa15ed9",
+      "DisplayName": "API",
+      "ColorIndex": 0
+    },
+    "8878ed06-4205-4481-a164-0bbe10db2049": {
+      "ProjectGuid": "8878ed06-4205-4481-a164-0bbe10db2049",
+      "DisplayName": "SERVICE",
+      "ColorIndex": 1
+    },
+    "ee6eee99-8073-407d-bafb-24acaa4eb307": {
+      "ProjectGuid": "ee6eee99-8073-407d-bafb-24acaa4eb307",
+      "DisplayName": "DATA",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e501462d-9c0f-4a4b-be4f-1d37191ddafe": {
+      "ProjectGuid": "e501462d-9c0f-4a4b-be4f-1d37191ddafe",
+      "DisplayName": "TESTS",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

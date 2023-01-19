@@ -1,0 +1,15 @@
+C:\PersonalP\PropellerHeadTest\SERVICE\obj\Debug\net6.0\SERVICE.csproj.AssemblyReference.cache
+C:\PersonalP\PropellerHeadTest\SERVICE\obj\Debug\net6.0\SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalP\PropellerHeadTest\SERVICE\obj\Debug\net6.0\SERVICE.AssemblyInfoInputs.cache
+C:\PersonalP\PropellerHeadTest\SERVICE\obj\Debug\net6.0\SERVICE.AssemblyInfo.cs
+C:\PersonalP\PropellerHeadTest\SERVICE\obj\Debug\net6.0\SERVICE.csproj.CoreCompileInputs.cache
+C:\PersonalP\PropellerHeadTest\SERVICE\bin\Debug\net6.0\SERVICE.deps.json
+C:\PersonalP\PropellerHeadTest\SERVICE\bin\Debug\net6.0\SERVICE.dll
+C:\PersonalP\PropellerHeadTest\SERVICE\bin\Debug\net6.0\ref\SERVICE.dll
+C:\PersonalP\PropellerHeadTest\SERVICE\bin\Debug\net6.0\SERVICE.pdb
+C:\PersonalP\PropellerHeadTest\SERVICE\bin\Debug\net6.0\DATA.dll
+C:\PersonalP\PropellerHeadTest\SERVICE\bin\Debug\net6.0\DATA.pdb
+C:\PersonalP\PropellerHeadTest\SERVICE\obj\Debug\net6.0\SERVICE.csproj.CopyComplete
+C:\PersonalP\PropellerHeadTest\SERVICE\obj\Debug\net6.0\SERVICE.dll
+C:\PersonalP\PropellerHeadTest\SERVICE\obj\Debug\net6.0\ref\SERVICE.dll
+C:\PersonalP\PropellerHeadTest\SERVICE\obj\Debug\net6.0\SERVICE.pdb

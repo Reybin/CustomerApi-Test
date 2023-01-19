@@ -1,0 +1,14 @@
+C:\PersonalP\PropellerHeadTest\DATA\bin\Debug\net6.0\DATA.deps.json
+C:\PersonalP\PropellerHeadTest\DATA\bin\Debug\net6.0\DATA.runtimeconfig.json
+C:\PersonalP\PropellerHeadTest\DATA\bin\Debug\net6.0\DATA.dll
+C:\PersonalP\PropellerHeadTest\DATA\bin\Debug\net6.0\ref\DATA.dll
+C:\PersonalP\PropellerHeadTest\DATA\bin\Debug\net6.0\DATA.pdb
+C:\PersonalP\PropellerHeadTest\DATA\obj\Debug\net6.0\DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalP\PropellerHeadTest\DATA\obj\Debug\net6.0\DATA.AssemblyInfoInputs.cache
+C:\PersonalP\PropellerHeadTest\DATA\obj\Debug\net6.0\DATA.AssemblyInfo.cs
+C:\PersonalP\PropellerHeadTest\DATA\obj\Debug\net6.0\DATA.csproj.CoreCompileInputs.cache
+C:\PersonalP\PropellerHeadTest\DATA\obj\Debug\net6.0\DATA.dll
+C:\PersonalP\PropellerHeadTest\DATA\obj\Debug\net6.0\ref\DATA.dll
+C:\PersonalP\PropellerHeadTest\DATA\obj\Debug\net6.0\DATA.pdb
+C:\PersonalP\PropellerHeadTest\DATA\obj\Debug\net6.0\DATA.genruntimeconfig.cache
+C:\PersonalP\PropellerHeadTest\DATA\obj\Debug\net6.0\DATA.csproj.AssemblyReference.cache
